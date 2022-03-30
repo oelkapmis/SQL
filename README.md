@@ -2,4 +2,4 @@
 
 [Patika.dev - SQL](https://app.patika.dev/courses/sql)
 
-adresinde bulunan SQL kursunun ödevlerini içeren repo.
+adresinde bulunan SQL eğitiminin ödevlerini içeren repo.
